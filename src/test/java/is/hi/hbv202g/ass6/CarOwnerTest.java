@@ -6,8 +6,6 @@ import static org.junit.Assert.*;
 
 public class CarOwnerTest {
 
-    private CarOwner carOwner;
-
     @Test
     public void testGetName() {
         Car car=new Car("Beetle");
