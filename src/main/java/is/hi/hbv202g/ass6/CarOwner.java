@@ -5,7 +5,6 @@ public class CarOwner {
 
     Car theOwnedCar;
 
-
     CarOwner(String name, Car ownedCar) {
         theName = name;
         theOwnedCar = ownedCar;
